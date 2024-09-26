@@ -1,4 +1,4 @@
-age,gndr,crrspds,dbtsml,hrtflr,cncr,crkdyds,pneu
+age,gender,chronic_respiratory_disease,diabetes_mellitus,heart_failure,cancer,chronic_kidney_disease,has_pneumonia
 23,0,1,1,0,0,1,0
 34,0,1,0,1,0,1,1
 19,1,0,0,0,1,0,1
